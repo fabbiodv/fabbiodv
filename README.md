@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Fabio
 
-<!--
-**fabbiodv/fabbiodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web con experiencia en Next.js y Node.js y lidero proyectos de software. Me apasiona construir soluciones tecnológicas que resuelvan problemas reales.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Ingeniería en Sistemas en la UTN
+- 💼 +4 años de experiencia en desarrollo de software
+- 🧠 Lidero un equipo de 3 personas en proyectos web
+
+## 🛠 Tecnologías
+
+**Frontend:** Next.js, React  
+**Backend:** Express.js, Node.js  
+**ORM/DB:** Prisma, PostgreSQL  
+**DevOps:** Docker
+
+## 📈 Lo que estoy construyendo
+
+- [Nombre del proyecto o startup] – [una línea de valor o pitch breve]
+- Proyectos open source que podés encontrar abajo 👇
+
+## 📬 Contacto
+
+- LinkedIn: https://www.linkedin.com/feed/
+- Email: fabiomazzarella97@hotmail.com
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
