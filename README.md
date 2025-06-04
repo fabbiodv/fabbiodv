@@ -15,11 +15,6 @@ Soy desarrollador web con experiencia en Next.js y Node.js y lidero proyectos de
 **ORM/DB:** Prisma, PostgreSQL  
 **DevOps:** Docker
 
-## 📈 Lo que estoy construyendo
-
-- [Nombre del proyecto o startup] – [una línea de valor o pitch breve]
-- Proyectos open source que podés encontrar abajo 👇
-
 ## 📬 Contacto
 
 - LinkedIn: https://www.linkedin.com/feed/
