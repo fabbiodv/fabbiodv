@@ -8,7 +8,6 @@ Soy desarrollador web con experiencia en Next.js y Node.js y lidero proyectos de
 
 - 🎓 Estudiante de Ingeniería en Sistemas en la UTN
 - 💼 +4 años de experiencia en desarrollo de software
-- 🧠 Lidero un equipo de 3 personas en proyectos web
 
 ## 🛠 Tecnologías
 
