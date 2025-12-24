@@ -2,7 +2,7 @@
 
 ![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-0A66C2?style=flat&logo=vercel&logoColor=white) ![Team Lead](https://img.shields.io/badge/-Team%20Lead-228BE6?style=flat&logo=abstract&logoColor=white) ![UTN Student](https://img.shields.io/badge/-UTN%20Student-0066A1?style=flat&logo=academia&logoColor=white)
 
-Soy desarrollador web con experiencia en Next.js y Node.js y lidero proyectos de software. Me apasiona construir soluciones tecnológicas que resuelvan problemas reales.
+Soy desarrollador web con experiencia en Next.js y Node.js. Me apasiona construir soluciones tecnológicas que resuelvan problemas reales.
 
 ## 🚀 Sobre mí
 
@@ -21,7 +21,3 @@ Soy desarrollador web con experiencia en Next.js y Node.js y lidero proyectos de
 
 - LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 - Email: [fabiomazzarella97@hotmail.com](mailto:fabiomazzarella97@hotmail.com)
-
----
-
-¡Gracias por visitar mi perfil! 🚀
